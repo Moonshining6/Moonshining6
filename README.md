@@ -16,3 +16,22 @@
 <h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
 [<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6084527452) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/Moonshining6)
+
+
+## Connect with Me
+
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Moonshining6)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MILKY_WAY_45)
+
+## My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Moonshining6&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moonshining6&layout=compact&theme=midnight-purple&hide=Css)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Moonshining6)￼Enter
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<!---
+Moonshining6/Moonshining6 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.!
+--->
